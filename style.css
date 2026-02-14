@@ -213,10 +213,9 @@ body{
         font-size: 18px;
         text-align: center;
     }
-    .item .content{
-        padding-left:5px;
-        width:40px;
-        left:5px;
+    .item{
+        width:150px;
+        background-position: 50% 30%;
     }
     /* Add more styles as needed */
 }
