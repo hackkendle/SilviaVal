@@ -195,7 +195,7 @@ body{
     .container{
         width: 95%;
         height: 95vh;
-        margin: o;
+        margin-left: 2opx;
 }
     .content .name{
         font-size:25px;
