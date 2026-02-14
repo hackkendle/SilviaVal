@@ -197,3 +197,9 @@ body{
         height: 95vh;
         margin: o;
 }
+    .content .name{
+        font-size:25px;
+    }
+    .content .description {
+        paddding-left:20px
+    }
