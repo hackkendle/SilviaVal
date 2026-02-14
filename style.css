@@ -201,10 +201,6 @@ body{
     .content .name{
         font-size:25px;
     }
-    .content .description {
-        paddding-left:0;
-        width:45px;
-    }
 .item .content{
     left:5px;
     width: 45px;
