@@ -213,5 +213,8 @@ body{
         font-size: 18px;
         text-align: center;
     }
+    .item .content{
+        left:5px;
+    }
     /* Add more styles as needed */
 }
