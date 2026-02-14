@@ -202,5 +202,5 @@ body{
         font-size:25px;
     }
     .content .description {
-        paddding-left:20px
+        paddding-left:0;
     }
