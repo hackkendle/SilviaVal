@@ -213,7 +213,9 @@ body{
         font-size: 18px;
         text-align: center;
     }
-    .item .content .description{
+    .item .content{
+        padding-left:5px;
+        width:40px;
         left:5px;
     }
     /* Add more styles as needed */
