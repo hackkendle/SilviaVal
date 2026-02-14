@@ -217,5 +217,8 @@ body{
         width:150px;
         background-position: 50% 50%;
     }
+    .item .content{
+        top:50%
+    }
     /* Add more styles as needed */
 }
