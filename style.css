@@ -219,6 +219,7 @@ body{
     }
     .item .content{
         top:50%
+        margin-left:5px;
     }
     /* Add more styles as needed */
 }
